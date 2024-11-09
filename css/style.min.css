@@ -3382,7 +3382,7 @@ video::-webkit-media-controls {
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-align: center;
-	align-items: center;
+	align-items: right;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 95%
