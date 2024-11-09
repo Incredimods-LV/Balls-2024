@@ -3407,7 +3407,7 @@ video::-webkit-media-controls {
 
 #box-bottom #box-picto .picto {
 	cursor: grab;
-	width: 7%;
+	width: 8%;
 	margin: 1%;
 	z-index: initial;
 	transform: translate3d(0, 0, 0);
