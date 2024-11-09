@@ -3378,10 +3378,10 @@ video::-webkit-media-controls {
 }
 
 #box-bottom #box-picto .pictoline {
-	position: relative;
+	position: right;
 	display: -ms-flexbox;
 	display: flex;
-	-ms-flex-align: center;
+	-ms-flex-align: right;
 	align-items: right;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
