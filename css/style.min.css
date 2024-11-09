@@ -2872,8 +2872,8 @@ video::-webkit-media-controls {
 }
 #box-bottom #box-picto .picto {
   cursor: grab;
-  width: 15%;
-  margin: 1%;
+  width: 100%;
+  margin: 10%;
   z-index: initial;
   transform: translate3d(0, 0, 0);
   border-radius: 18%;
