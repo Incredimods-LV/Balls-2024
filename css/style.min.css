@@ -3385,7 +3385,7 @@ video::-webkit-media-controls {
 	align-items: center;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
-	width: 65%
+	width: 95%
 }
 
 #box-bottom #box-picto .pictoline.top {
@@ -3393,7 +3393,7 @@ video::-webkit-media-controls {
 }
 
 #box-bottom #box-picto .pictoline.bot {
-	margin: 0 0 0 auto
+	margin: 0 12 0 auto
 }
 
 #box-bottom #box-picto.fade {
