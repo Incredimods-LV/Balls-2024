@@ -3558,7 +3558,7 @@ video::-webkit-media-controls {
 }
 
 #box-bottom #box-picto .picto.griser .bck {
-	background-position-y: 100% !important
+	background-position-y: -100% !important
 }
 
 @keyframes tweenOpacity {
