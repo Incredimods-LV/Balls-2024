@@ -2872,11 +2872,11 @@ video::-webkit-media-controls {
 }
 #box-bottom #box-picto .picto {
   cursor: grab;
-  width: 100%;
+  width: 10%;
   margin: 1%;
   z-index: initial;
   transform: translate3d(0, 0, 0);
-  border-radius: 56%;
+  border-radius: 18%;
   transition: background-color 0.4s ease-out;
   background-color: transparent;
   -ms-touch-action: none;
