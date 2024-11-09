@@ -3497,7 +3497,7 @@ video::-webkit-media-controls {
 }
 
 #box-bottom #box-picto .picto#picto15 .bck {
-	background-position: calc((100% / 19) * 15) 4
+	background-position: calc((100% / 19) * 15) 0
 }
 
 #box-bottom #box-picto .picto#picto16 .bck {
