@@ -3517,10 +3517,10 @@ video::-webkit-media-controls {
 }
 
 .picto .hitzone {
-	width: 132%;
-	left: -16%;
-	height: 132%;
-	top: -16%
+	width: 130%;
+	left: -15%;
+	height: 130%;
+	top: -15%
 }
 
 #box-bottom #box-picto .picto.drag {
