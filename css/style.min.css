@@ -60,7 +60,7 @@
   --popup-pointe-w: calc(26px * var(--popup-scale));
   --sp-intro-scale: 1;
   --sp-select-scale: 1;
-  --picto-width: 68px;
+  --picto-width: 100px;
   --tab-height: 60px;
   --formline-height: 40px;
   --icn-formline-height: 35px;
