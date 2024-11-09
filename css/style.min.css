@@ -3393,7 +3393,7 @@ video::-webkit-media-controls {
 }
 
 #box-bottom #box-picto .pictoline.bot {
-	margin: 0 12 0 auto
+	margin: 0 0 0 auto
 }
 
 #box-bottom #box-picto.fade {
@@ -3558,7 +3558,7 @@ video::-webkit-media-controls {
 }
 
 #box-bottom #box-picto .picto.griser .bck {
-	background-position-y: -100% !important
+	background-position-y: 100% !important
 }
 
 @keyframes tweenOpacity {
