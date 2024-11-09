@@ -3385,7 +3385,7 @@ video::-webkit-media-controls {
 	align-items: center;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
-	width: 75%
+	width: 95%
 }
 
 #box-bottom #box-picto .pictoline.top {
@@ -3407,7 +3407,7 @@ video::-webkit-media-controls {
 
 #box-bottom #box-picto .picto {
 	cursor: grab;
-	width: 100%;
+	width: 80%;
 	margin: 1%;
 	z-index: initial;
 	transform: translate3d(0, 0, 0);
@@ -3427,7 +3427,7 @@ video::-webkit-media-controls {
 }
 
 #box-bottom #box-picto .picto .bck {
-	width: 100%;
+	width: 80%;
 	height: 0;
 	padding-top: 100%;
 	background-size: auto 200%;
