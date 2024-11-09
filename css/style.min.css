@@ -3389,11 +3389,11 @@ video::-webkit-media-controls {
 }
 
 #box-bottom #box-picto .pictoline.top {
-	margin: 0 auto 0 0
+	margin: 22 8 24 56
 }
 
 #box-bottom #box-picto .pictoline.bot {
-	margin: -80 0 -50 auto
+	margin: 34 76 17 -30
 }
 
 #box-bottom #box-picto.fade {
