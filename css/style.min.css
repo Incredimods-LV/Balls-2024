@@ -3396,15 +3396,12 @@ video::-webkit-media-controls {
 	align-items: center;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
-	width: 95%
+	width: 55%;
+	margin: 0% 0% 0% right
 }
 
 #box-bottom #box-picto .pictoline.top {
 	margin: 0% auto 0% 0%
-}
-
-#box-bottom #box-picto .pictoline.bot {
-	margin: 0% 0% 0% right
 }
 
 #box-bottom #box-picto.fade {
