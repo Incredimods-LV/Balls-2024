@@ -3429,8 +3429,8 @@ video::-webkit-media-controls {
 #box-bottom #box-picto .picto .bck {
 	width: 100%;
 	height: 0;
-	padding-top: 100%;
-	background-size: auto 180%;
+	padding-top: 80%;
+	background-size: auto 200%;
 	border-radius: 18%;
 	transition: opacity .4s ease-out;
 	opacity: 1
