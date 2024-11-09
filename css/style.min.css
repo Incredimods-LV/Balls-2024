@@ -3408,7 +3408,7 @@ video::-webkit-media-controls {
 #box-bottom #box-picto .picto {
 	cursor: grab;
 	width: 100%;
-	margin: 1%;
+	margin: 2%;
 	z-index: initial;
 	transform: translate3d(0, 0, 0);
 	border-radius: 18%;
@@ -3428,7 +3428,7 @@ video::-webkit-media-controls {
 
 #box-bottom #box-picto .picto .bck {
 	width: 100%;
-	height: -20%;
+	height: 0;
 	padding-top: 100%;
 	background-size: auto 200%;
 	border-radius: 18%;
