@@ -3381,8 +3381,8 @@ video::-webkit-media-controls {
 	position: right;
 	display: -ms-flexbox;
 	display: flex;
-	-ms-flex-align: right;
-	align-items: right;
+	-ms-flex-align: center;
+	align-items: center;
 	-ms-flex-pack: justify;
 	justify-content: space-between;
 	width: 95%
